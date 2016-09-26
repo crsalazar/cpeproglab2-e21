@@ -1,4 +1,4 @@
-//salazar
+//salazar e21
 #include<iostream>
 #include<cstdlib>
 #include<math.h>
