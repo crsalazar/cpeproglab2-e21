@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
-    ifstream f("hashmat.txt");
+    ifstream f("input.txt");
     
     int h, o;
     
